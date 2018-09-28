@@ -1,3 +1,3 @@
-# OSBuilder.Scripts
+# OSBuilder.Content
 
-Script can be placed in your OSBuilder\Content\Scripts directory.  When creating a New-OSBuild Task, you can select the Script to process
+This is a dump of some Sample files . . . enjoy!
